@@ -1,5 +1,5 @@
 {
-    "name": "Hass.io apcupsd add-on",
-    "url": "https://github.com/korylprince/hassio-apcupsd",
+    "name": "Hass.io apcupsd add-on DCF",
+    "url": "https://github.com/dogcatfish/hassio-apcupsd",
     "maintainer": "Kory Prince <korylprince@gmail.com>"
 }
