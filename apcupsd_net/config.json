@@ -10,6 +10,7 @@
     "boot": "auto",
     "hassio_api": true,
     "hassio_role": "manager",
+    "devices": ["/dev/ttyUSB0"],
     "map": ["share"],
     "options": {
         "name": "APC UPS",
